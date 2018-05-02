@@ -1,2 +1,2 @@
 # python-
-some fundational process with python
+python tutorial
